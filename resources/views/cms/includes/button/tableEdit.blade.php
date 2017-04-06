@@ -1,0 +1,1 @@
+<a class="btn btn-xs btn-primary update" data-id="{{$i->id}}"><i class="fa fa-pencil"></i></a>

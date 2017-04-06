@@ -1,0 +1,33 @@
+{
+  "site": {
+    "createdBy": {
+      "link": "http://guncebektas.com",
+      "mailto": "info@guncebektas.com",
+      "name": "guncebektas.com",
+      "logo": "http://blog.guncebektas.com/wp-content/uploads/2016/10/gb-rotated.png",
+      "version": "0.1.1"
+    }
+  },
+  "notification": {
+    "0": {
+      "link" : "#",
+      "class": "fa fa-warning text-yellow",
+      "data" : "5 new members joined today" 
+    },
+    "1": {
+      "link" : "#",
+      "class": "fa fa-warning text-yellow",
+      "data" : "Very long description here that may not fit into the page and may cause design problems" 
+    },
+    "2": {
+      "link" : "#",
+      "class": "fa fa-warning text-yellow",
+      "data" : "5 new members joined" 
+    },
+    "3": {
+      "link" : "#",
+      "class": "fa fa-warning text-yellow",
+      "data" : "25 sales made" 
+    }
+  }
+}
