@@ -8,7 +8,7 @@ ElvinCMS is designed to run on a machine with PHP 7.0+ and MySQL 5.5.29+
 <ul>
   <li>Public: http://elvincms.guncebektas.com</li>
   <li>Admin: http://elvincms.guncebektas.com/login</li>
-</ul><ul>
+</ul>
 
 <h4>Installation</h4>
 <ul>
