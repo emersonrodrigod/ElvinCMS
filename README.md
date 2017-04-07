@@ -1,6 +1,8 @@
 <h1>ElvinCMS</h1>
 ElvinCMS is a simple solution to manage contents and to build web applications with Laravel 5.4 
 
+![Screenshot Backups](/storage/app/public/homepage.jpg "Backups Screenshot")
+
 <h4>System Requirements</h4>
 ElvinCMS is designed to run on a machine with PHP 7.0+ and MySQL 5.5.29+
 
@@ -14,6 +16,7 @@ ElvinCMS is designed to run on a machine with PHP 7.0+ and MySQL 5.5.29+
 <ul>
   <li>download as a zip file</li>
   <li>extract it</li>
+  <li>composer update</li>
   <li>edit .env file</li>
   <li>run migrations with seeds</li>
   <li>serve it</li>
@@ -21,11 +24,13 @@ ElvinCMS is designed to run on a machine with PHP 7.0+ and MySQL 5.5.29+
 
 
 <h4>Feedback is welcome</h4>
-Please share your issues & thoughts with
+Please share your issues & thoughts with us
 
 <h4>Authors</h4>
-<p><a href="https://github.com/guncebektas/">Gunce BEKTAS</a></p>
-<p><a href="https://github.com/tekinerten/">Tekin ERTEN</a></p>
+<p>
+  <a href="https://github.com/guncebektas/">Gunce BEKTAS</a></br>
+  <a href="https://github.com/tekinerten/">Tekin ERTEN</a>
+</p>
 
 <h4>Name of CMS</h4>
-Tekin ERTEN is one of the founder and the name Elvin is his daughter's name
+Tekin ERTEN is one of the founder and the name "Elvin" is his daughter's name
