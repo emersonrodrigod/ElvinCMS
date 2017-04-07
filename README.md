@@ -1,5 +1,5 @@
 <h1>ElvinCMS</h1>
-ElvinCMS is a simple solution to manage contents and to build web applications with Laravel. 
+ElvinCMS is a simple solution to manage contents and to build web applications with Laravel Laravel 5.4 
 
 <h4>System Requirements</h4>
 ElvinCMS is designed to run on a machine with PHP 7.0+ and MySQL 5.5.29+
