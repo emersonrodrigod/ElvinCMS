@@ -10,5 +10,12 @@ ElvinCMS is a simple solution to manage contents and to build web applications w
   <li>serve it</li>
 </ul>
 
+<h4>Feedback is welcome</h4>
+Please share your issues & thoughts with
+
+<h4>Authors</h4>
+<p><a href="https://github.com/guncebektas/">Gunce BEKTAS</a></p>
+<p><a href="https://github.com/tekinerten/">Tekin ERTEN</a></p>
+
 <h4>Name of CMS</h4>
 Tekin ERTEN is one of the founder and the name Elvin is his doughter's name
