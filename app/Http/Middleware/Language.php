@@ -20,7 +20,7 @@ class Language
      */
     public function handle($request, Closure $next)
     {
-        /*if (config('settings.Multi_language') && null !== config('app.locales')) {
+        if (config('settings.Multi_language') && null !== config('app.locales')) {
             if (!Session::has('lang')) {
                 $browser_language = substr($request->server('HTTP_ACCEPT_LANGUAGE'), 0, 2);
                 
@@ -35,10 +35,7 @@ class Language
             Session::put('lang', config('app.locale'));
         }
         
-        Lang::setlocale(Session::get('lang'));
-        */
-        Session::put('lang', config('app.locale'));
-        Lang::setlocale(Session::get('lang'));
+        Lang::setlocale(Session::get('lang'));;
 
         return $next($request);
     }
