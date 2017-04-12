@@ -48,7 +48,7 @@ class LoginController extends Controller
         if (Auth::user()->role->name == 'user') {
             return property_exists($this, 'redirectTo') ? $this->redirectTo : '/login';
         } else {
-            return $this->redirectTo = '/';
+            return $this->redirectTo = '/admin';
         }
 
     }
