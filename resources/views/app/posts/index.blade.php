@@ -11,10 +11,10 @@
                 <div class="post-preview">
                     <a href="{{ url('posts',[$post->id, $post->slug]) }}">
                         <h2 class="post-title">
-                            {{$post->title}}
+                            {!!$post->title!!}
                         </h2>
                         <h3 class="post-subtitle">
-                            {{$post->summary}}
+                            {!! $post->summary !!}
                         </h3>
                     </a>
                     <p class="post-meta">{{$post->user->name}} {{$post->published_at}}</p>
@@ -28,4 +28,5 @@
         </div>
     </div>
 </div>
+ 
 @endsection
